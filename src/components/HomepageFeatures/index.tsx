@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
     },
     {
         title: '昊伟帅哥',
-        Img: "/img/handsome.png",
+        Img: "/img/sg.png",
         description: (
             <>
                 南昌暖男标杆，微信被妹子加爆
