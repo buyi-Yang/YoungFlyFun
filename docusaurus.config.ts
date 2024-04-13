@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '欢迎来到小杨空间（下面请欣赏帅哥美照）',
-  tagline: '红豆越熬越苦，相思一文不值',
+  tagline: '红豆越熬越苦，相思一文不值，作者单身贵族',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -58,7 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'My First Site',
       logo: {
         alt: 'My Site Logo',
         src: 'img/LOGO.png',
@@ -70,10 +70,10 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        { to: '/blog', label: '博客（还没想好写啥）', position: 'left' },
         {
           href: 'https://github.com/buyi-Yang/YoungFlyFun',
-          label: 'GitHub',
+          label: 'MyGitHub（本项目作者链接）',
           position: 'right',
         },
       ],
