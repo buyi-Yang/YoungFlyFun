@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '欢迎来到小杨空间',
+  title: '欢迎来到小杨空间（下面请欣赏帅哥美照）',
   tagline: '红豆越熬越苦，相思一文不值',
   favicon: 'img/favicon.ico',
 
@@ -72,7 +72,7 @@ const config: Config = {
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/buyi-Yang/YoungFlyFun',
           label: 'GitHub',
           position: 'right',
         },
