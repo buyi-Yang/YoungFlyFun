@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '欢迎来到小杨空间',
-  tagline: '红豆越熬越苦，相思一文不值，作者单身贵族',
+  tagline: '人总是太执着第一眼看中的东西，明知不可为而为之(✿◡‿◡)',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
