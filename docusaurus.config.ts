@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '欢迎来到小杨空间（下面请欣赏帅哥美照）',
+  title: '欢迎来到小杨空间',
   tagline: '红豆越熬越苦，相思一文不值，作者单身贵族',
   favicon: 'img/favicon.ico',
 
@@ -58,7 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My First Site',
+      title: 'YoungFly.fun',
       logo: {
         alt: 'My Site Logo',
         src: 'img/LOGO.png',
@@ -68,7 +68,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Memory(creating)',
         },
         { to: '/blog', label: '博客（还没想好写啥）', position: 'left' },
         {
